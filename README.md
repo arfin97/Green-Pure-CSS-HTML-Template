@@ -1,4 +1,4 @@
-# Dental-Website
+# Green-Pure
 This is a raw dental website template made from pure css and html. 
 
 
